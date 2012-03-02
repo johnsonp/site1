@@ -1,3 +1,6 @@
 [submodule "_extensions/Cefar_ext1"]
 	path = _extensions/Cefar_ext1
 	url = git@github.com:johnsonp/ext1.git
+[submodule "magento"]
+	path = magento
+	url = git@github.com:johnsonp/mag.git
