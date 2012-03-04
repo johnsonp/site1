@@ -1,3 +1,4 @@
+magento magento
 _themes\frontend\site1\default\local.xml magento/app/design/frontend/site1/default/layout/local.xml
 _themes\frontend\site1\default\template magento/app/design/frontend/site1/default/template
 _themes\frontend\site1\default\skin magento/skin/frontend/site1/default
